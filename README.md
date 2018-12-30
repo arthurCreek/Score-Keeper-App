@@ -1,4 +1,5 @@
 # Score-Keeper-App
+Udacity Project: Score Keeper App
 
 ## Project Overview
 This project is a chance for you to combine and practice everything you learned in this section of the Nanodegree program. 
